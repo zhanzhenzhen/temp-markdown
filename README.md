@@ -17,7 +17,6 @@ This is another regular paragraph.
 
 - abc
     - def
-
         jfklsjkkdlfjgkls
 
         - qqq
