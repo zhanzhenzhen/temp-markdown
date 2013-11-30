@@ -34,6 +34,6 @@ This is another regular paragraph.
 
     lakfsdjlajskd
     fjalskdjfklasdjflajdks
-
-    :::text
+    
+    
     asdf <asdf> [asdf] [[<asdf>] [<asdf> <asdf>]]
