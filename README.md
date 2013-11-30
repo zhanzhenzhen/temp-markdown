@@ -32,6 +32,5 @@ This is another regular paragraph.
     - level 2
 - level 1
 
-```
-asdf <asdf> [asdf] [[<asdf>] [<asdf> <asdf>]]
-```
+    :::text
+    asdf <asdf> [asdf] [[<asdf>] [<asdf> <asdf>]]
