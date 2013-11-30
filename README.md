@@ -13,7 +13,7 @@ This is a regular paragraph.
     </tr>
 </table>
 
-This is another regular paragraph.
+    This is another regular paragraph.
 
 - level 1
     - level 2
@@ -31,9 +31,3 @@ This is another regular paragraph.
     - level 2
     - level 2
 - level 1
-
-    lakfsdjlajskd
-    fjalskdjfklasdjflajdks
-    
-    
-    asdf <asdf> [asdf] [[<asdf>] [<asdf> <asdf>]]
