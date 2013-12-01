@@ -13,4 +13,6 @@ This is a regular paragraph.
     </tr>
 </table>
 
-    $ npm install -g fjalskdjfla "jfdlakjds"
+```bash
+$ npm install -g fjalskdjfla "jfdlakjds"
+```
