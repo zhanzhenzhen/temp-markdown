@@ -13,5 +13,8 @@ This is a regular paragraph.
     </tr>
 </table>
 
-    :::text
-    This is another regular paragraph.
+```
+function () {
+    var a = "jfdlsj";
+}
+```
