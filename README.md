@@ -13,8 +13,4 @@ This is a regular paragraph.
     </tr>
 </table>
 
-```javascript
-function () {
-    var a = "jfdlsj";
-}
-```
+    npm install -g fjalskdjfla
